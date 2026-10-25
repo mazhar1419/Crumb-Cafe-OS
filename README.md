@@ -53,13 +53,17 @@ The screenshots below are linked as local repository assets. **Add your genuine 
 
 ### 7. Expense tracking
 
-![Crumb Cafe OS expense tracking](docs/screenshots/expenses.png)
+![Crumb Cafe OS expense tracking](docs/screenshots/customers-expenses.png)
 
 ### 8. Sales and expense reports
 
 ![Crumb Cafe OS reports](docs/screenshots/reports.png)
 
-### 9. Mobile experience
+### 9. Public Cafe Storefront 
+
+![Crumb Cafe OS mobile experience](docs/screenshots/mobile-experience.png)
+
+### 10. Mobile experience
 
 ![Crumb Cafe OS mobile experience](docs/screenshots/mobile-experience.png)
 
