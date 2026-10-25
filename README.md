@@ -61,7 +61,7 @@ The screenshots below are linked as local repository assets. **Add your genuine 
 
 ### 9. Public Cafe Storefront 
 
-![Crumb Cafe OS mobile experience](docs/screenshots/mobile-experience.png)
+![Crumb Cafe OS mobile experience](docs/screenshots/cafe-storefront.png)
 
 ### 10. Mobile experience
 
